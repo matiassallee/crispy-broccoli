@@ -19,7 +19,6 @@
     "webdriverio": "^6.4.0"
   },
   "dependencies": {
-    "@wdio/cli": "^6.4.0",
-    "axios": "^0.19.2"
+    "@wdio/cli": "^6.4.0"
   }
 }
